@@ -1,2 +1,2 @@
-# Titanic_Problem
+# Titanic_Analysis
 First EDA
