@@ -25,5 +25,7 @@ In this dataset,there are different Labels/Features :
 ![Predictions](https://github.com/officialAmanchauhan/Titanic-A-short-Analytical-Story/blob/Main/importances.png)
 
 I am a beginner here, but also a quick learner and will learn & workupon this dataset to get the best predictions
+
 Have a Great Day
+
 Made with ❤ from [Aman Chauhan](https://github.com/officialAmanchauhan)
