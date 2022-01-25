@@ -18,6 +18,8 @@ In this dataset,there are different Labels/Features :
 - cabin	    - Cabin number	
 - embarked	- Port of Embarkation	C = Cherbourg, Q = Queenstown, S = Southampton0 is for Passengers
 
+You can Download the Dataset on Kaggle here [Titanic Dataset](https://www.kaggle.com/c/titanic/data)
+
 # Insights about Data
 ![Features](https://github.com/officialAmanchauhan/Titanic-A-short-Analytical-Story/blob/Main/info.png)
 
